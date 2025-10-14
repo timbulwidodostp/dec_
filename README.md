@@ -1,6 +1,8 @@
 # dec_
 Performs decomposition of the quantile difference (of y) between two groups (in 2 components) in the common support Use dec_ (decr) With (In) R Software
 
+https://www.youtube.com/watch?v=6RvySPzEDBI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
